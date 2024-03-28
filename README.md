@@ -1,4 +1,5 @@
-#Dogecoin Price Prediction Project
+# Dogecoin Price Prediction Project
+
 **Overview:**
 This project aims to develop predictive models for forecasting Dogecoin prices in the cryptocurrency market. The goal is to assist investors in making informed decisions by providing accurate price predictions and actionable insights based on historical data and advanced machine learning techniques.
 
